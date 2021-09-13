@@ -8,7 +8,7 @@
 # github-release.sh repo tag branch "description" filename
 # eg.
 # export GITHUB_TOKEN=2345htrvdcse234rbfbgn345
-# github-release.sh SamarV-121/releases 1.0.2 master "Test release" test.zip
+# github-release.sh iamthecloverly/releases 1.0.2 master "Test release" test.zip
 #
 
 if [ "$5" ]; then
