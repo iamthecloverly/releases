@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 # --
 # export GITHUB_TOKEN=token
-# github-release.sh repo tag branch "description" filename
+# github-release.sh iamthecloverly/releases tag master "description" filename
 # eg.
 # export GITHUB_TOKEN=2345htrvdcse234rbfbgn345
 # github-release.sh iamthecloverly/releases 1.0.2 master "Test release" test.zip
